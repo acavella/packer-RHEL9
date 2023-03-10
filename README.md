@@ -2,7 +2,7 @@
 
 ## What is packer-RHEL9 ?
 
-packer-RHEL9 is a set of configuration files used to build an automated Red Hat Enterprise Linux 9 virtual machine images using [Packer](https://www.packer.io/).
+packer-RHEL9 is a set of configuration files used to build an automated Red Hat Enterprise Linux 9 virtual machine image using [Packer](https://www.packer.io/).
 This Packer configuration file allows you to build images for VMware Workstation and Oracle VM VirtualBox.
 
 ## Prerequisites
